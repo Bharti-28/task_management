@@ -7,7 +7,7 @@
 			</div>
 		</div>
 		<div class="card-body">
-			<table class="table tabe-hover table-condensed" id="list">
+			<table class="table tabe-hover table-condensed table-responsive" id="list">
 				<colgroup>
 					<col width="5%">
 					<col width="15%">

@@ -1,8 +1,8 @@
 body {
-  background-image: url("background.jpg");
+  background-image: url(https://theproductivewoman.com/wp-content/uploads/2015/02/Dollarphotoclub_65488542-720x480.jpg);
   background-size: 210vh;
   background-position-y: -40px;
-
+  background-repeat: no-repeat;
 }
 
 .toast{
@@ -109,6 +109,4 @@ body {
     max-width: calc(100%);
   }
 
-/* https: //us.123rf.com/450wm/annlisa/annlisa1910/annlisa191000076/132804806-close-up-office-table-with-blank-pen-on-notebook-and-laptop.jpg?ver=6 */
-/* https: //images.squarespace-cdn.com/content/v1/5ebd684d21cb6b6024d21293/1646389940698-5AAK7RCSQKVBS7NHAYNC/unsplash-image-pUAM5hPaCRI.jpg */
-/* https: //theproductivewoman.com/wp-content/uploads/2015/02/Dollarphotoclub_65488542-720x480.jpg */
+
